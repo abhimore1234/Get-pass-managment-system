@@ -64,7 +64,8 @@ Restricts access to labs or restricted areas only to registered personnel.
 Maintains a record of entry times for lab usage analysis.
 Enhances security by detecting unrecognized individuals.
 
-### 5. Secure Facility Monitoring : <br>
+### 5. Secure Facility Monitoring: <br>
 Useful in data centers, research labs, or sensitive areas.
 Real-time alerts for unauthorized access attempts.
+Easily scalable with additional cameras and face records.erts for unauthorized access attempts.
 Easily scalable with additional cameras and face records.
