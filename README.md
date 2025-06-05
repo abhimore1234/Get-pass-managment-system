@@ -3,22 +3,25 @@
 ## overview
 <br>
 Gate Pass Management System is a Python-based application designed to efficiently handle entry and exit of personnel, vehicles, and visitors within an organization or premises. It ensures secure access control by maintaining detailed records of movements while providing an easy-to-use interface for both administrators and users. The system supports multiple user roles, including Security Personnel, Admin, and Visitor.
+<br>
+
 * 🚀 Features
-🎯 Real-Time Face Recognition
+  
+* 🎯 Real-Time Face Recognition
 Detects and recognizes faces in real-time using webcam input.
 
 Matches live faces against a database of pre-encoded face data.
 
 Automatically switches between In and Out statuses based on previous scan.
 
-🗃️ MySQL Database Integration
+* 🗃️ MySQL Database Integration
 Stores user information and attendance logs in a MySQL database.
 
 Efficiently fetches and updates records such as face encodings, status, scan times, etc.
 
 Prevents duplicate scans within a configurable cooldown period (default: 1 minute).
 
-📨 Email Notifications
+* 📨 Email Notifications
 Sends automatic email alerts to users upon successful recognition.
 
 Notifies the user of status updates (In/Out) with current date and time.
