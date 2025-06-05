@@ -36,6 +36,12 @@ Gate Pass Management System is a Python-based application designed to efficientl
 Displays warnings and popups for invalid faces or missing webcam access.
 Includes logging for debugging and tracing errors.
 <br>
+## How to Run
+<br>
+Install all required libraries.
+Generate the QR code from Excel.
+Then, it will scan the attendance.
+<br>
 ## Example Use Cases
 <br>
 ### 1. Office Gate Pass System : <br>
