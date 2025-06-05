@@ -35,3 +35,30 @@ Gate Pass Management System is a Python-based application designed to efficientl
 * Handles corrupted or malformed face encodings gracefully.
 Displays warnings and popups for invalid faces or missing webcam access.
 Includes logging for debugging and tracing errors.
+<br>
+## Example Use Cases
+<br>
+### 1. Office Gate Pass System : <br>
+Automatically logs employee entries and exits via facial recognition.
+Sends email notifications to employees confirming their gate status.
+Helps HR or security teams monitor in/out times and generate daily reports.
+
+### 2. School or College Attendance : <br>
+Teachers or staff can automate student attendance as they enter or leave classrooms.
+Parents receive email alerts when their child enters or exits the school campus.
+Prevents proxy attendance through secure biometric verification.
+
+### 3. Hostel In/Out Tracking : <br>
+Tracks student movement in hostels for safety and regulation compliance.
+Warden/admins get real-time records of who’s in or out.
+Provides an accurate digital log for audits or emergency situations.
+
+### 4. Lab Access Control : <br>
+Restricts access to labs or restricted areas only to registered personnel.
+Maintains a record of entry times for lab usage analysis.
+Enhances security by detecting unrecognized individuals.
+
+### 5. Secure Facility Monitoring : <br>
+Useful in data centers, research labs, or sensitive areas.
+Real-time alerts for unauthorized access attempts.
+Easily scalable with additional cameras and face records.
