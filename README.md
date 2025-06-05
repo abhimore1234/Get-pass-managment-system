@@ -7,8 +7,7 @@ Gate Pass Management System is a Python-based application designed to efficientl
 
 ## Features
   
-*  Real-Time Face Recognition :
-  <br>
+*  Real-Time Face Recognition : <br>
 Detects and recognizes faces in real-time using webcam input.
 
 Matches live faces against a database of pre-encoded face data.
