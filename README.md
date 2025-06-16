@@ -14,7 +14,7 @@ Gate Pass Management System enables secure access control by leveraging facial r
 - 🔄 Auto-switches between "In" and "Out" based on previous scan status.
 
 
-###  MySQL Database Integration : <br>
+### 📊 MySQL Database Integration : <br>
 - Stores user information and attendance logs in a MySQL database.
 - Efficiently fetches and updates records such as face encodings, status, scan times, etc.
 - Prevents duplicate scans within a configurable cooldown period (default: 1 minute).
@@ -39,8 +39,8 @@ Gate Pass Management System enables secure access control by leveraging facial r
 - 📝 Debug logs help trace errors effectively.
 
 ## 🚀 How to Run
-1️⃣ Install all required dependencies
-2️⃣ Generate the QR code from Excel
+1️⃣ Install all required dependencies<br>
+2️⃣ Generate the QR code from Excel<br>
 3️⃣ Run the system to scan attendance automatically
 
 ## 🔍 Example Use Cases
